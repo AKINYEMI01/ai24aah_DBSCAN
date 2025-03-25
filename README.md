@@ -3,5 +3,9 @@
 # DBCAN
 Implementation of Density Based Spatial Clustering of Appliation with Noise in pyton
 
-![Alt text](Actual result.png)
+
+Matplotlib and seaborn for Actual and DBSCAN visualization
+
+# Features
+instagram dataset 
 
